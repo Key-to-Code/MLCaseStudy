@@ -1,0 +1,12 @@
+# virtual environment (recreate with `uv sync`)
+.venv/
+
+# notebook autosave copies
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# scratch output from nbconvert test runs
+*_test_exec.ipynb
