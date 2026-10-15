@@ -374,3 +374,5 @@ websocket-client==1.9.2
     # via jupyter-server
 widgetsnbextension==4.0.16
     # via ipywidgets
+streamlit>=1.30.0
+pyarrow>=14.0.0,<20.0.0
