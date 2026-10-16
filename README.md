@@ -1,8 +1,8 @@
 # 23CSE301 Machine Learning — Capstone Project
 
 **Course:** 23CSE301 Machine Learning  
-**Project Tracks:** Regression, Classification, and Clustering  
-**Application Name:** Erudition (Streamlit ML Platform)
+**Project Tracks:** Regression , Classification , and Clustering  
+**App Name:** Erudition
 
 ---
 
